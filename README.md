@@ -1,3 +1,8 @@
+## 🔴 Live Demo
+
+👉 Click here to try the app:  
+https://yourusername-spam-detector.streamlit.app
+
 # 📧 AI Spam Email Detection System
 
 This project is a Machine Learning based Spam Email Detection System built using:
@@ -15,4 +20,5 @@ This project is a Machine Learning based Spam Email Detection System built using
 
 ## Author
 Anshu Kumar
+
 B.Tech CSE (AIML)
